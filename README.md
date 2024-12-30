@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **APIs**
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **NodeJs and Web Scraping**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
