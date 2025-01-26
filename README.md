@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yb278" alt="yb278" /></a> </p>
 
-- 🔭 I’m currently working on **APIs**
+- 🔭 I’m currently working on **Android App Development**
 
-- 🌱 I’m currently learning **NodeJs and Web Scraping**
+- 🌱 I’m currently learning **NodeJs**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
