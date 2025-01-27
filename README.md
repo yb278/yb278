@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Android App Development**
 
-- 🌱 I’m currently learning **NodeJs**
+- 🌱 I’m currently learning **Kotlin**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
