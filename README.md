@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yb278&label=Profile%20views&color=0e75b6&style=flat" alt="yb278" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yb278" alt="yb278" /></a> </p>
-
 - 🔭 I’m currently working on **Python Vulnerability Scanner**
 
 - 🌱 I’m currently learning **Bash**
