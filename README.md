@@ -1,3 +1,5 @@
+<div align="center">
+
 <h1 align="center">Hi 👋, I'm Yaseen Barlas</h1>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=&size=15&pause=1000&width=435&lines=A+Computer+Science+Undregraduate+at+City+University)](https://git.io/typing-svg)
@@ -10,3 +12,4 @@
 </p>
 
  ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yb278&theme=nord_dark) 
+</div>
