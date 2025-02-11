@@ -1,11 +1,10 @@
 <h1 align="center">Hi 👋, I'm Yaseen Barlas</h1>
 <h3 align="center">An aspiring Software Developer at City University</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=yb278&label=Profile%20views&color=0e75b6&style=flat" alt="yb278" /> </p>
+![](https://gitwar.herokuapp.com/badge?username=yb278&style=for-the-badge)
 
-- 🔭 I’m currently working on **A Python Vulnerability Scanner**
-
-- 🌱 I’m currently learning **Bash**
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=I+am+working+on+A+Python+Vulnerability+Scanner)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=I%E2%80%99m+currently+learning+Bash)](https://git.io/typing-svg)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
