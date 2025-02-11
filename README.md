@@ -14,4 +14,4 @@
 </p>
 
 ---
- ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yb278&theme=default) 
+ ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yb278&theme=nord_dark) 
